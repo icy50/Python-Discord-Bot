@@ -18,4 +18,4 @@ Discord bot, create it in
 https://discord.com/developers/applications
 
 Discord bot token, reset your token to copy it:
-https://discord.com/developers/applications/(bot id)/bot
+https://discord.com/developers/applications/(bot_id)/bot
