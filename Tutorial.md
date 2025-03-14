@@ -18,7 +18,6 @@ Copy the link that's generated, paste it in the browser and authorize your bot t
 
 ## Step 4
 Run the bot.py and there will be these stuff and code in the output area:
-**
 [ some random code are gonna be here 
 for some random reasons when the code runs ]
 
